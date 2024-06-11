@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/teenah28/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/teenah28/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/teenah28/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -37,6 +38,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/teenah28/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 # Simulation
 |  |
