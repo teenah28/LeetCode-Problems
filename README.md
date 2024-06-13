@@ -52,3 +52,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0189-rotate-array) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/teenah28/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
