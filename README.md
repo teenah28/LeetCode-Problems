@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/teenah28/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/teenah28/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/teenah28/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -82,3 +83,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/teenah28/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/teenah28/LeetCode-Problems/tree/master/0035-search-insert-position) |
