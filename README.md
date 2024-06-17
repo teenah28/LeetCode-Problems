@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/teenah28/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/teenah28/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/teenah28/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/teenah28/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/teenah28/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 # Dynamic Programming
@@ -87,3 +88,4 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/teenah28/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/teenah28/LeetCode-Problems/tree/master/0792-binary-search) |
