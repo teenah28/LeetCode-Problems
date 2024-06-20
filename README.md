@@ -19,6 +19,7 @@
 | [0792-binary-search](https://github.com/teenah28/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/teenah28/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/teenah28/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
+| [2294-minimum-time-to-complete-trips](https://github.com/teenah28/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -99,3 +100,4 @@
 | [0162-find-peak-element](https://github.com/teenah28/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/teenah28/LeetCode-Problems/tree/master/0792-binary-search) |
+| [2294-minimum-time-to-complete-trips](https://github.com/teenah28/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
