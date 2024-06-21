@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/teenah28/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/teenah28/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/teenah28/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/teenah28/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/teenah28/LeetCode-Problems/tree/master/0792-binary-search) |
