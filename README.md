@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/teenah28/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/teenah28/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/teenah28/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/teenah28/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/teenah28/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/teenah28/LeetCode-Problems/tree/master/0268-missing-number) |
 # Linked List
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/teenah28/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/teenah28/LeetCode-Problems/tree/master/0268-missing-number) |
 # Binary Search
 |  |
 | ------- |
@@ -98,6 +101,15 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/teenah28/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/teenah28/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/teenah28/LeetCode-Problems/tree/master/0792-binary-search) |
 | [2294-minimum-time-to-complete-trips](https://github.com/teenah28/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/teenah28/LeetCode-Problems/tree/master/0268-missing-number) |
+# Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/teenah28/LeetCode-Problems/tree/master/0268-missing-number) |
