@@ -37,6 +37,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/teenah28/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/teenah28/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/teenah28/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/teenah28/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/teenah28/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/teenah28/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -136,12 +137,15 @@
 # Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/teenah28/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/teenah28/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/teenah28/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/teenah28/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 # Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/teenah28/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/teenah28/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
