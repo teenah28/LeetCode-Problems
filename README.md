@@ -231,4 +231,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/teenah28/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/teenah28/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/teenah28/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
