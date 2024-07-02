@@ -215,6 +215,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/teenah28/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/teenah28/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/teenah28/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/teenah28/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/teenah28/LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -234,5 +235,18 @@
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/teenah28/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
