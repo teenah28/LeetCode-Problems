@@ -214,6 +214,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/teenah28/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/teenah28/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/teenah28/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/teenah28/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/teenah28/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
