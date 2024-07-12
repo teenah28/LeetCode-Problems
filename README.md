@@ -222,6 +222,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/teenah28/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/teenah28/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/teenah28/LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/teenah28/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [0027-remove-element](https://github.com/teenah28/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/teenah28/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/teenah28/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
