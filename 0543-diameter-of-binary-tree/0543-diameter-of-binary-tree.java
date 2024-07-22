@@ -13,43 +13,28 @@
  *     }
  * }
  */
-class Solution 
-{
-    class pair{
-        int ht=-1;
-        int dia=0;
-    }
-    public int diameterOfBinaryTree(TreeNode root) 
-    {
-       return sol(root).dia;
-    }
-    public pair sol(TreeNode root)
-    {
-        if(root==null)
-        {
-           return new pair(); 
+class Solution {
+    public int diameterOfBinaryTree(TreeNode root) {
+        if (root == null) {
+            return 0;
         }
-        pair left= sol(root.left);
-        pair right=sol(root.right);
-        int sd=left.ht+right.ht+2;
-        pair p =new pair();
-        p.ht=Math.max(left.ht,right.ht)+1;
-        p.dia=Math.max(left.dia,Math.max(right.dia,sd));
-        return p;
-        }
-        // int ld=sol(root.left);
-        // int rd=sol(root.right);
-        // int sd=height(root.left)+height(root.right)+2;
-        // return Math.max(sd,Math.max(ld,rd));
+        
+        // Calculate the diameter recursively
+        int leftHeight = height(root.left);
+        int rightHeight = height(root.right);
+        
+        int leftDiameter = diameterOfBinaryTree(root.left);
+        int rightDiameter = diameterOfBinaryTree(root.right);
+        
+        // The diameter can either be in the left subtree, right subtree, or pass through the root
+        return Math.max(leftHeight + rightHeight, Math.max(leftDiameter, rightDiameter));
+    }
     
-    public int height(TreeNode root)
-    {
-        if(root==null)
-        {
-            return -1;
+    // Helper method to calculate the height of the tree
+    private int height(TreeNode root) {
+        if (root == null) {
+            return 0;
         }
-        int lh=height(root.left);
-        int rh=height(root.right);
-        return Math.max(lh,rh)+1;
+        return 1 + Math.max(height(root.left), height(root.right));
     }
 }
