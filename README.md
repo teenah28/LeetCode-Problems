@@ -253,11 +253,13 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/teenah28/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/teenah28/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/teenah28/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teenah28/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1319-unique-number-of-occurrences](https://github.com/teenah28/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teenah28/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Two Pointers
 |  |
