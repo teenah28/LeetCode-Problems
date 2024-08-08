@@ -266,6 +266,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/teenah28/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teenah28/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/teenah28/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teenah28/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/teenah28/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
