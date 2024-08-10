@@ -258,6 +258,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/teenah28/LeetCode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teenah28/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -277,6 +278,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teenah28/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/teenah28/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 ## String Matching
@@ -303,4 +305,8 @@
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/teenah28/LeetCode-Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
