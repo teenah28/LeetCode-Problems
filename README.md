@@ -281,6 +281,7 @@
 | [0013-roman-to-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/teenah28/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/teenah28/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [2032-largest-odd-number-in-string](https://github.com/teenah28/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -309,8 +310,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/teenah28/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/teenah28/LeetCode-Problems/tree/master/0476-number-complement) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/teenah28/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
