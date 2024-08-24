@@ -309,4 +309,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/teenah28/LeetCode-Problems/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
