@@ -309,6 +309,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/teenah28/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
