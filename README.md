@@ -312,6 +312,7 @@
 | [0007-reverse-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/teenah28/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/teenah28/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/teenah28/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/teenah28/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -321,4 +322,16 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/teenah28/LeetCode-Problems/tree/master/2032-largest-odd-number-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/teenah28/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/teenah28/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/teenah28/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
