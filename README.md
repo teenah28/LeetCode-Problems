@@ -249,6 +249,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/teenah28/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/teenah28/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/teenah28/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/teenah28/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/teenah28/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -334,4 +335,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/teenah28/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/teenah28/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/teenah28/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
