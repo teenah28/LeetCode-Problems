@@ -348,5 +348,6 @@
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/teenah28/LeetCode-Problems/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/teenah28/LeetCode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
