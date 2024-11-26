@@ -345,4 +345,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/teenah28/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/teenah28/LeetCode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
